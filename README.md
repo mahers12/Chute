@@ -2,9 +2,9 @@
 
 ## **3/23/2023**
 
-#### [Sarah Maher ]() 
+#### [Sarah Maher ](https://www.linkedin.com/in/sarah-maher-8a6865255/) 
 
-#### [Front End Repository]() | [Back End Repository ]() | [Trello]()
+#### [Front End Repository]() | [Back End Repository ]() | [Trello](https://trello.com/b/cK0WBCcp/chute)
 
 ---
 
@@ -29,20 +29,19 @@
 
 #### Component Heirerachy Diagram:
 
-#### ![ERD]()
+#### ![CHD](https://i.imgur.com/8rYmjKX.png)
+
 
 #### Entity Relationship Diagram:
 
-#### ![ERD]()
+#### ![ERD](https://i.imgur.com/KnagP6z.png)
 
 
 
 ### **_Screenshots_**
 
----
-
----
 
 ## **Credits**
+
 
 ####
